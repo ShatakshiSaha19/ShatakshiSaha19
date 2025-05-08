@@ -1,6 +1,6 @@
 
 <div id="header">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="70%"/>
 </div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShatakshiSaha19.ShatakshiSaha19" />
 
