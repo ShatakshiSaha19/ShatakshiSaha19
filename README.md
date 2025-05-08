@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,,express,mongodb,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,cpp" /><br>
 
 </div>
 
@@ -38,7 +38,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img src="https://raw.githubusercontent.com/ShatakshiSaha19/ShatakshiSaha19/output/snake.svg" alt="Snake animation" />
   
@@ -51,7 +51,7 @@
 
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">  STATS  </h2>
 <br>
 <div align=center>
   <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShatakshiSaha19&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
