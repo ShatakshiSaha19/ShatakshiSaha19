@@ -1,6 +1,7 @@
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
-
+<div id="header">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"/>
+</div>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShatakshiSaha19.ShatakshiSaha19" />
 
 <h1 align="center">
