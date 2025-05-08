@@ -1,58 +1,65 @@
 
-<!--
-**ShatakshiSaha19/ShatakshiSaha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-Here are some ideas to get you started:
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShatakshiSaha19.ShatakshiSaha19" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Shatakshi </h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+folks!+👋;+I'm+Shatakshi;" />
+</h1>
+
+<h3 align="center">Passionate Front-end developer.</h3>
+
+<br/>
 
 
+<div align="center"> 
+  <a href="shatakshishatakshi108.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shatakshisaha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
 
----
+ <hr/>
 
-### 🧰 Languages and Tools:
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cpp,nextjs" /><br>
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
+</div>
 
----
+<br/>
+<hr/>
 
-### 📊 GitHub Stats
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/ShatakshiSaha19/ShatakshiSaha19/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShatakshiSaha19&show_icons=true&theme=tokyonight" alt="ShatakshiSaha19" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShatakshiSaha19&theme=tokyonight" alt="ShatakshiSaha19" />
-</p>
 
----
+  
+  
 
-### 🧠 My Dev Philosophy
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ShatakshiSaha19&count_private=true&theme=react&hide_border=true" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShatakshiSaha19&count_private=true&show_icons=true&theme=gotham&rank_icon=github&hide_border=true" alt="readme stats" />
+  <br/>
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShatakshiSaha19&hide=HTML&langs_count=8&layout=compact&theme=nord&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-### 📫 Connect with me
+<hr/>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shatakshisaha" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:shatakshishatakshi108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/ShatakshiSahaa" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
-</p>
+<br/>
