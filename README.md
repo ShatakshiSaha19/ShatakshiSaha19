@@ -37,19 +37,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img src="https://raw.githubusercontent.com/ShatakshiSaha19/ShatakshiSaha19/output/snake.svg" alt="Snake animation" />
-  
-  <br/><br/><br/>
-</div>
-
-
-  
-  
-
-
 <hr/>
 <h2 align="center">  STATS  </h2>
 <br>
@@ -65,3 +52,17 @@
 <hr/>
 
 <br/>
+
+
+<div align="center">
+  <h2>My Contributions</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/ShatakshiSaha19/ShatakshiSaha19/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
+</div>
+
+
+  
+  
+
