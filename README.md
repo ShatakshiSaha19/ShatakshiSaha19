@@ -5,7 +5,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShatakshiSaha19.ShatakshiSaha19" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+folks!+👋;+I'm+Shatakshi;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hii!+🤗;+I'm+Shatakshi;" />
 </h1>
 
 <h3 align="center">Passionate Front-end developer.</h3>
@@ -14,12 +14,13 @@
 
 
 <div align="center"> 
-  <a href="shatakshishatakshi108.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/shatakshisaha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="shatakshishatakshi108.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
   
 </div>
 
@@ -29,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,cpp,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,,express,mongodb,cpp" /><br>
 
 </div>
 
